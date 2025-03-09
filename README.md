@@ -1,1 +1,1 @@
-# Projects-
+# This repository contains projects that are solved using various machine learning, deep learning techniques
